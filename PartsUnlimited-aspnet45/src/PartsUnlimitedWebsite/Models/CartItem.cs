@@ -5,7 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class CartItem : ILineItem
     {
-        // My first change to be committed.
+        // My second change to be committed.
         [Key]
         public int CartItemId { get; set; }
 
